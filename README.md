@@ -2,8 +2,7 @@
 
 # Modern C++ Project Template
 
-A high-performance boilerplate for C++ development featuring CMake integration, Google Test (GTest) for unit testing,
-and Google Benchmark for performance analysis.
+Temple for C++ development featuring CMake integration, Google Test (GTest) for unit testing, and Google Benchmark for performance analysis.
 
 # Prerequisites
 
